@@ -1,11 +1,11 @@
 {
-  "name": "mironovdv/crossword",
-  "description": "Crossword generator",
+  "name": "dmathews/crossword",
+  "description": "Crossword generator, an update of mironovdv/crossword",
   "license": "MIT",
   "authors": [
     {
-      "name": "Mironov Dmitriy",
-      "email": "mironovdv@bk.ru"
+      "name": "David Mathews",
+      "email": "dmathews@midstatewrestling.com"
     }
   ],
   "require-dev": {
